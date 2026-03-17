@@ -5,3 +5,6 @@ Vi bestämde hos för att göra en hemsida för Kuststål UF, dom är ett UF som
 
 ## Vecka 11
 Jag har samlat vårt färgschema, moodboard och typografi i en grafisk profil även gjort en ny loga till UF företaget med en helfärgad och två monofärgade logor som man även kan använda
+
+## Vecka 12
+Vi har byggt upp strukturen på hemsidan med en sitemap och även gjort wireframes för alla sidorna. Vi jobbar nu med att göra dom sista små detailjerna som en custom bootsrap fil som innehåller våra färger och typografi efter det så ska vi samla allt och se hur vi lägger upp arbetet inför konstruktionen av hemsidan
