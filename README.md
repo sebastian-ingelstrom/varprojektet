@@ -9,5 +9,8 @@ Jag har samlat vårt färgschema, moodboard och typografi i en grafisk profil ä
 ## Vecka 12
 Vi har byggt upp strukturen på hemsidan med en sitemap och även gjort wireframes för alla sidorna. Vi jobbar nu med att göra dom sista små detailjerna som en custom bootsrap fil som innehåller våra färger och typografi efter det så ska vi samla allt och se hur vi lägger upp arbetet inför konstruktionen av hemsidan
 
-##Vecka 13
+## Vecka 13
 Vi har nu gjort en anpassad Bootstrap fil med våra valda färger och typsnitt, så vi har nu börjat bygga lite på hemsidan för att få i grunderna hur vi har bestämt hur den ska se ut.
+
+## Vecka 14
+Vi har börjat konstruera våran hemsida utifrån våra wireframes och lägger just nu in exempel information som vi sedan ska erstätta med skarp information
