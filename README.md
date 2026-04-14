@@ -14,3 +14,6 @@ Vi har nu gjort en anpassad Bootstrap fil med våra valda färger och typsnitt, 
 
 ## Vecka 14
 Vi har börjat konstruera våran hemsida utifrån våra wireframes och lägger just nu in exempel information som vi sedan ska erstätta med skarp information
+
+## Vecka 16
+Vi har nu satt alla sidor på plats, så vi ska börja sätta skarp information och göra lite förbättringar på sidan
