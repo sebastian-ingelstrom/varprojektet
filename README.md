@@ -17,3 +17,6 @@ Vi har börjat konstruera våran hemsida utifrån våra wireframes och lägger j
 
 ## Vecka 16
 Vi har nu satt alla sidor på plats, så vi ska börja sätta skarp information och göra lite förbättringar på sidan
+
+## Vecka 20
+Vi är nu i slutfasen vi har genomgått ett par tester och åtgädar nu alla fel, vi har även fixat en mer responsiv design så att den blir enklare och snyggare att använda på telefon
