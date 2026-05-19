@@ -20,3 +20,6 @@ Vi har nu satt alla sidor på plats, så vi ska börja sätta skarp information 
 
 ## Vecka 20
 Vi är nu i slutfasen vi har genomgått ett par tester och åtgädar nu alla fel, vi har även fixat en mer responsiv design så att den blir enklare och snyggare att använda på telefon
+
+## Vecka 21
+Vi har nu fixat produktsidan med en mer responsiv design och ett nyhetsbrev för nya produkter, sen har vi fixat logorna på hela sidan med en transparent bakgrund så att den smälter bättre in på sidan
